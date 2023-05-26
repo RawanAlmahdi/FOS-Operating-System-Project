@@ -71,12 +71,6 @@ page
 
 * [Eslam Shouman](https://www.linkedin.com/in/eslam-shouman-0958091b4/)
 
-* [Mohamed Salah](https://www.linkedin.com/in/mohamed-salah-480520243)
-
 * [Rawan ibrahim](https://www.linkedin.com/in/rawan-ibrahim-a01778268) 
-
-* [Sama Waleed](www.linkedin.com/in/sama-gharabawy-2aa19b217)
-
-* [Mariam Alaa](https://www.linkedin.com/in/mariam-alaa-a95800196)
 
 * [Mohamed Mahmoud](https://www.linkedin.com/in/mohamed-mahmoud07) 
