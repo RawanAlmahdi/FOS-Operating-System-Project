@@ -17,7 +17,7 @@ Functions implemented during this phase included “page_fault_handler_with_buff
 “malloc”, “allocate_mem”, “free”, and “free_mem_with_buffering”. By applying the
 MODIFIED CLOCK replacement algorithm, the operating system effectively handled page faults,
 while user programs were empowered to dynamically allocate and free memory space at
-runtime.
+runtime. 
 The implementation of these functions within the FOS operating system provided us with
 practical insights into operating system concepts and allowed us to apply our theoretical
 knowledge in a real-world context. Additionally, it contributed to the usability and versatility of
