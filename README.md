@@ -1,6 +1,6 @@
 # FOS-Operating-System-Project
 
-# Introduction:
+# Introduction: 
 The Faculty of Computer and Information Science OS (FOS) project was undertaken with the
 objective of gaining practical experience and deepening our understanding of operating
 systems. This report documents the progress and outcomes of the project, which involved the
